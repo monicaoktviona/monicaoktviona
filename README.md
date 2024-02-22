@@ -20,7 +20,7 @@ Let's [connect](https://www.linkedin.com/in/monicaoktaviona/)!
 
 <p align="left">
 <a href="https://github.com/monicaoktviona">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monicaoktviona&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monicaoktviona&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monicaoktviona&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monicaoktviona&layout=compact&theme=nord"/>
 </a>
 </p>
