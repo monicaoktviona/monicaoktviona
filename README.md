@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm **Monica**, a Computer Science Student at Universitas Indonesia.<br>
+Let's [connect](https://www.linkedin.com/in/monicaoktaviona/)!
